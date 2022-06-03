@@ -1,0 +1,27 @@
+body {
+    color: yellow;
+ 
+    background-image: url("voZ23G.webp");
+}
+fieldset {
+    text-align: center;
+    color: yellow;
+    border-color: black;
+    background-color: transparent;
+}
+input {
+    border-style: solid;
+    background-color: transparent;
+    color:yellow;
+    border-color: yellow;
+    border-radius: 20px;
+}
+button {
+    border-color: yellow;
+    border-style:solid;
+    background-color: transparent;
+    color: yellow;
+    border-radius: 10px;
+
+}
+ 
